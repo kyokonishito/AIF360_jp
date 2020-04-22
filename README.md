@@ -1,5 +1,5 @@
 # AIF360_jp
-https://github.com/IBM/AIF360の一部日本語訳
+https://github.com/IBM/AIF360 の一部日本語訳
 
 以下を翻訳しています:
 https://github.com/IBM/AIF360/blob/master/examples/tutorial_credit_scoring.ipynb
