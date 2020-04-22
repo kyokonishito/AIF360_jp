@@ -4,7 +4,7 @@ https://github.com/IBM/AIF360 の一部日本語訳
 以下を翻訳しています:
 https://github.com/IBM/AIF360/blob/master/examples/tutorial_credit_scoring.ipynb
 
-翻訳ファイル [examples/tutorial_credit_scoring.ipynb](examples/tutorial_credit_scoring.ipynb)
+翻訳ファイル [examples/tutorial_credit_scoring-ja.ipynb](examples/tutorial_credit_scoring-ja.ipynb)
 
 以下はその説明です：
 ## チュートリアル
